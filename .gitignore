@@ -1,0 +1,14 @@
+# 敏感配置文件
+config/channels/feishu.json
+config/core.json
+
+# 日志和缓存
+*.log
+.cache/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# 示例文件保留
+!*.example
